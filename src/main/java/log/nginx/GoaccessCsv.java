@@ -1,4 +1,4 @@
-package log.nginx.beans;
+package log.nginx;
 
 import com.opencsv.bean.CsvBindByPosition;
 
